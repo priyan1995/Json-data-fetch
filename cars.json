@@ -1,0 +1,13 @@
+{
+    "brand": "Nissan",
+    "model": "GTR",
+    "year": "2018",
+    "engine": { 
+        "type":"V-6",
+        "capacity":"4200" 
+    },
+    "features": [ "Alloy Wheels","Sun Roof","Navigation" ],
+    "color":"Black",
+    "image":"assets/img/car.jpg",
+    "Price":"1,800,000 LKR"
+}
